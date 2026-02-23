@@ -316,8 +316,8 @@
         <mxCell id="_A_64pg55MxhnOTFf5bV-129" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="205" width="183" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="_A_64pg55MxhnOTFf5bV-130" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="229" width="60" height="30" as="geometry" />
+        <mxCell id="_A_64pg55MxhnOTFf5bV-130" value="Max Pooling" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="546" y="218.5" width="91" height="46.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
