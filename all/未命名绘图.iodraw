@@ -244,7 +244,7 @@
         <mxCell id="_A_64pg55MxhnOTFf5bV-110" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="150" width="10" height="242" as="geometry" />
         </mxCell>
-        <mxCell id="_A_64pg55MxhnOTFf5bV-112" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_A_64pg55MxhnOTFf5bV-112" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="546" y="248.5" width="79" height="45" as="geometry" />
         </mxCell>
         <mxCell id="_A_64pg55MxhnOTFf5bV-113" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;strokeWidth=0;" vertex="1" parent="1">
