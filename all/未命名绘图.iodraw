@@ -233,7 +233,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_A_64pg55MxhnOTFf5bV-107" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="169" y="386" width="160" height="10" as="geometry" />
+          <mxGeometry x="169" y="386" width="360" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_A_64pg55MxhnOTFf5bV-108" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="150" width="10" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
