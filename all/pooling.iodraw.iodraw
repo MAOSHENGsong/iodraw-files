@@ -61,7 +61,7 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_A_64pg55MxhnOTFf5bV-66" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;swimlaneLine=0;" vertex="1" parent="1">
+        <mxCell id="_A_64pg55MxhnOTFf5bV-66" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=0;swimlaneLine=0;" vertex="1" parent="1">
           <mxGeometry x="349" y="150" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_A_64pg55MxhnOTFf5bV-67" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;strokeWidth=0;" vertex="1" parent="_A_64pg55MxhnOTFf5bV-66">
@@ -359,12 +359,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="469" y="391" as="sourcePoint" />
             <mxPoint x="469" y="151" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_A_64pg55MxhnOTFf5bV-140" value="" style="endArrow=none;html=1;rounded=0;entryX=0.496;entryY=0.678;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.503;exitY=0.538;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_A_64pg55MxhnOTFf5bV-107" target="_A_64pg55MxhnOTFf5bV-109">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="391" as="sourcePoint" />
-            <mxPoint x="350" y="151" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_A_64pg55MxhnOTFf5bV-141" value="" style="endArrow=none;html=1;rounded=0;entryX=0.665;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.334;exitY=0.452;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
