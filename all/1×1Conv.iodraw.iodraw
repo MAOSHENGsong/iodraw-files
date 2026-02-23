@@ -71,7 +71,7 @@
         <mxCell id="p0hkCmbuUL1_Z4t-sbDr-9" value="1×1 Conv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p0hkCmbuUL1_Z4t-sbDr-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p0hkCmbuUL1_Z4t-sbDr-26" value="Filter&lt;div&gt;Convatenation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="220" width="80" height="260" as="geometry" />
         </mxCell>
       </root>
