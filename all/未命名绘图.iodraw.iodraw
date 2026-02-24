@@ -64,10 +64,10 @@
         <mxCell id="hEAwP0edIoBiiea9HqtH-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="334" width="240" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="hEAwP0edIoBiiea9HqtH-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hEAwP0edIoBiiea9HqtH-16" value="&lt;span style=&quot;color: rgb(42, 47, 69); font-family: PingFangSC-Regular, &amp;quot;Microsoft YaHei&amp;quot;, Segoe&amp;nbsp;UI&amp;nbsp;Variable&amp;nbsp;Static&amp;nbsp;Display; font-size: 14px; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;predict&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="466" width="120" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="hEAwP0edIoBiiea9HqtH-17" value="&lt;span style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;115%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:仿宋;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Confusion Matrix&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hEAwP0edIoBiiea9HqtH-17" value="&lt;span style=&quot;font-size:12.0pt;line-height:&amp;lt;br/&amp;gt;115%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:仿宋;mso-ansi-language:&amp;lt;br/&amp;gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;&lt;b&gt;Confusion Matrix&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="334" width="240" height="132" as="geometry" />
         </mxCell>
       </root>
