@@ -40,6 +40,9 @@
         <mxCell id="H5eupbC8iHET-atLzyPc-10" value="棉芯吸风转移" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="H5eupbC8iHET-atLzyPc-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H5eupbC8iHET-atLzyPc-12" target="H5eupbC8iHET-atLzyPc-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H5eupbC8iHET-atLzyPc-12" value="无纺布复合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -111,6 +114,9 @@
         </mxCell>
         <mxCell id="H5eupbC8iHET-atLzyPc-36" value="腿部橡筋复合、包覆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="1265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H5eupbC8iHET-atLzyPc-41" value="无纺布复合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
