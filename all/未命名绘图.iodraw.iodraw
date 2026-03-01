@@ -91,8 +91,14 @@
         <mxCell id="H5eupbC8iHET-atLzyPc-28" value="上下材料复合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="880" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="H5eupbC8iHET-atLzyPc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5eupbC8iHET-atLzyPc-30" target="H5eupbC8iHET-atLzyPc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H5eupbC8iHET-atLzyPc-30" value="底膜" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="1080" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H5eupbC8iHET-atLzyPc-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5eupbC8iHET-atLzyPc-31" target="H5eupbC8iHET-atLzyPc-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H5eupbC8iHET-atLzyPc-31" value="底膜无纺布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="960" width="110" height="80" as="geometry" />
