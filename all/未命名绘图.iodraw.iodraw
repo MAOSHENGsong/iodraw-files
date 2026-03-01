@@ -22,6 +22,9 @@
         <mxCell id="H5eupbC8iHET-atLzyPc-5" value="SAP" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="160" width="110" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="H5eupbC8iHET-atLzyPc-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
