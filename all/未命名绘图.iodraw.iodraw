@@ -157,8 +157,8 @@
         <mxCell id="H5eupbC8iHET-atLzyPc-55" value="平面橡筋" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="730" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H5eupbC8iHET-atLzyPc-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="565" y="730" width="120" height="60" as="geometry" />
+        <mxCell id="H5eupbC8iHET-atLzyPc-56" value="平面橡筋复合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
