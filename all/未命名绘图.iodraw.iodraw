@@ -133,6 +133,9 @@
         <mxCell id="H5eupbC8iHET-atLzyPc-45" value="无纺布剖切" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="H5eupbC8iHET-atLzyPc-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H5eupbC8iHET-atLzyPc-47" target="H5eupbC8iHET-atLzyPc-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H5eupbC8iHET-atLzyPc-47" value="护围橡筋复合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="510" width="120" height="60" as="geometry" />
         </mxCell>
@@ -141,6 +144,9 @@
         </mxCell>
         <mxCell id="H5eupbC8iHET-atLzyPc-49" value="护围橡筋" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H5eupbC8iHET-atLzyPc-51" value="护围橡筋复合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
