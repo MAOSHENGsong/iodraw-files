@@ -145,7 +145,7 @@
         <mxCell id="H5eupbC8iHET-atLzyPc-49" value="护围橡筋" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="500" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H5eupbC8iHET-atLzyPc-51" value="护围橡筋复合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H5eupbC8iHET-atLzyPc-51" value="三片复合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
