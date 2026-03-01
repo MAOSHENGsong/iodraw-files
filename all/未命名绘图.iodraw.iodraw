@@ -91,7 +91,7 @@
         <mxCell id="H5eupbC8iHET-atLzyPc-28" value="上下材料复合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H5eupbC8iHET-atLzyPc-30" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H5eupbC8iHET-atLzyPc-30" value="底膜" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="1010" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
