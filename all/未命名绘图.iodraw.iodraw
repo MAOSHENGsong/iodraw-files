@@ -145,6 +145,9 @@
         <mxCell id="H5eupbC8iHET-atLzyPc-49" value="护围橡筋" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="500" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="H5eupbC8iHET-atLzyPc-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H5eupbC8iHET-atLzyPc-51" target="H5eupbC8iHET-atLzyPc-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H5eupbC8iHET-atLzyPc-51" value="三片复合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="620" width="120" height="60" as="geometry" />
         </mxCell>
@@ -158,10 +161,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H5eupbC8iHET-atLzyPc-55" value="平面橡筋" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="750" width="120" height="80" as="geometry" />
+          <mxGeometry x="745" y="875" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H5eupbC8iHET-atLzyPc-56" value="平面橡筋复合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="565" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="885" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H5eupbC8iHET-atLzyPc-59" value="三片复合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="725" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
