@@ -178,8 +178,8 @@
         <mxCell id="H5eupbC8iHET-atLzyPc-59" value="面层材料喷胶" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="565" y="725" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H5eupbC8iHET-atLzyPc-65" value="上下材料复合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1125" width="120" height="60" as="geometry" />
+        <mxCell id="H5eupbC8iHET-atLzyPc-65" value="芯体分切" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1095" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
