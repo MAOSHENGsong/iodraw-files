@@ -97,7 +97,10 @@
         <mxCell id="H5eupbC8iHET-atLzyPc-31" value="底膜无纺布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="1050" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H5eupbC8iHET-atLzyPc-32" value="底膜复合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H5eupbC8iHET-atLzyPc-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5eupbC8iHET-atLzyPc-32" target="H5eupbC8iHET-atLzyPc-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5eupbC8iHET-atLzyPc-32" value="底膜定位、复合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H5eupbC8iHET-atLzyPc-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5eupbC8iHET-atLzyPc-35" target="H5eupbC8iHET-atLzyPc-36">
