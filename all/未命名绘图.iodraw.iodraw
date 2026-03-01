@@ -13,6 +13,9 @@
         <mxCell id="H5eupbC8iHET-atLzyPc-2" value="木浆粉碎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="H5eupbC8iHET-atLzyPc-4" value="SAP混合施加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
