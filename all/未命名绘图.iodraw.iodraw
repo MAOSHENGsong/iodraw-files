@@ -103,7 +103,7 @@
         <mxCell id="H5eupbC8iHET-atLzyPc-31" value="底膜无纺布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="960" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H5eupbC8iHET-atLzyPc-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H5eupbC8iHET-atLzyPc-32" value="底膜复合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
