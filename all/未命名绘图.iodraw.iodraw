@@ -154,11 +154,14 @@
         <mxCell id="H5eupbC8iHET-atLzyPc-53" value="中间无纺布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="610" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="H5eupbC8iHET-atLzyPc-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H5eupbC8iHET-atLzyPc-55" target="H5eupbC8iHET-atLzyPc-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H5eupbC8iHET-atLzyPc-55" value="平面橡筋" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="730" width="120" height="80" as="geometry" />
+          <mxGeometry x="750" y="750" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H5eupbC8iHET-atLzyPc-56" value="平面橡筋复合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="565" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="565" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
