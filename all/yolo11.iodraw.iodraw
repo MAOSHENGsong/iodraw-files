@@ -28,8 +28,8 @@
         <mxCell id="R0meGAkIvY3dnzkpVsdy-6" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R0meGAkIvY3dnzkpVsdy-8" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="R0meGAkIvY3dnzkpVsdy-8" value="C3k2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
