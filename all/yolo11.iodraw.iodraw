@@ -198,9 +198,6 @@
         <mxCell id="R0meGAkIvY3dnzkpVsdy-72" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;i&gt;Head&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1335" y="-430" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R0meGAkIvY3dnzkpVsdy-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R0meGAkIvY3dnzkpVsdy-73" target="R0meGAkIvY3dnzkpVsdy-85">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="R0meGAkIvY3dnzkpVsdy-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="585" width="1320" height="300" as="geometry" />
         </mxCell>
@@ -243,7 +240,7 @@
         <mxCell id="R0meGAkIvY3dnzkpVsdy-85" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0E2C0;strokeColor=default;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="920" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R0meGAkIvY3dnzkpVsdy-87" value="Conv2d" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0E2C0;strokeColor=default;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="R0meGAkIvY3dnzkpVsdy-87" value="Conv2d" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a2c986;strokeColor=default;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1120" y="440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
