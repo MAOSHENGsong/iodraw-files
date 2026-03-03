@@ -16,6 +16,11 @@
         <mxCell id="R0meGAkIvY3dnzkpVsdy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;fontStyle=1;strokeColor=default;strokeWidth=2;" edge="1" parent="1" source="R0meGAkIvY3dnzkpVsdy-1" target="R0meGAkIvY3dnzkpVsdy-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="R0meGAkIvY3dnzkpVsdy-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="R0meGAkIvY3dnzkpVsdy-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100.09090909090901" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="R0meGAkIvY3dnzkpVsdy-1" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0E2C0;strokeColor=default;fontSize=22;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="440" width="120" height="40" as="geometry" />
         </mxCell>
@@ -179,12 +184,6 @@
         </mxCell>
         <mxCell id="R0meGAkIvY3dnzkpVsdy-55" value="Detect" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=default;fontSize=22;fontStyle=1;fontColor=#333333;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1375" y="-40" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="R0meGAkIvY3dnzkpVsdy-66" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="90" as="sourcePoint" />
-            <mxPoint x="480" y="40" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
