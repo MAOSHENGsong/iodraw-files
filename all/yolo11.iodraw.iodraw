@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R0meGAkIvY3dnzkpVsdy-22" value="Concat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="480" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="580" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R0meGAkIvY3dnzkpVsdy-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R0meGAkIvY3dnzkpVsdy-24" target="R0meGAkIvY3dnzkpVsdy-34">
           <mxGeometry relative="1" as="geometry" />
@@ -115,7 +115,7 @@
         <mxCell id="R0meGAkIvY3dnzkpVsdy-36" value="Detect" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="950" y="-40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R0meGAkIvY3dnzkpVsdy-38" value="C3k2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="R0meGAkIvY3dnzkpVsdy-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="970" y="120" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
