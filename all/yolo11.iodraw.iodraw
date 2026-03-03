@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="R0meGAkIvY3dnzkpVsdy-64" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="-440" width="220" height="640" as="geometry" />
+        <mxCell id="R0meGAkIvY3dnzkpVsdy-64" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;strokeColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="-440" width="230" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="R0meGAkIvY3dnzkpVsdy-63" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+        <mxCell id="R0meGAkIvY3dnzkpVsdy-63" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;strokeColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="240" y="-440" width="1040" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="R0meGAkIvY3dnzkpVsdy-62" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+        <mxCell id="R0meGAkIvY3dnzkpVsdy-62" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;strokeColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry y="-440" width="200" height="970" as="geometry" />
         </mxCell>
         <mxCell id="R0meGAkIvY3dnzkpVsdy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;fontStyle=1;strokeColor=default;strokeWidth=2;" edge="1" parent="1" source="R0meGAkIvY3dnzkpVsdy-1" target="R0meGAkIvY3dnzkpVsdy-2">
