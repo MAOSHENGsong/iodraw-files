@@ -213,6 +213,11 @@
         <mxCell id="R0meGAkIvY3dnzkpVsdy-76" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0E2C0;strokeColor=default;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="320" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="R0meGAkIvY3dnzkpVsdy-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="R0meGAkIvY3dnzkpVsdy-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1460" y="339.42857142857156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="R0meGAkIvY3dnzkpVsdy-78" value="Conv2d" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a2c986;strokeColor=default;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1250" y="320" width="120" height="40" as="geometry" />
         </mxCell>
@@ -241,6 +246,11 @@
         </mxCell>
         <mxCell id="R0meGAkIvY3dnzkpVsdy-85" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D0E2C0;strokeColor=default;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1050" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R0meGAkIvY3dnzkpVsdy-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="R0meGAkIvY3dnzkpVsdy-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1460" y="459.42857142857156" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="R0meGAkIvY3dnzkpVsdy-87" value="Conv2d" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a2c986;strokeColor=default;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1250" y="440" width="120" height="40" as="geometry" />
