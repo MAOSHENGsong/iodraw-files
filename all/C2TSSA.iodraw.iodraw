@@ -223,14 +223,13 @@
         <mxCell id="g_KCTb8szpHInoTzHt-u-11" value="View" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontStyle=1;strokeWidth=2;fillColor=#d0e2c0;" vertex="1" parent="1">
           <mxGeometry x="1280" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g_KCTb8szpHInoTzHt-u-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g_KCTb8szpHInoTzHt-u-13" target="g_KCTb8szpHInoTzHt-u-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="g_KCTb8szpHInoTzHt-u-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g_KCTb8szpHInoTzHt-u-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="g_KCTb8szpHInoTzHt-u-13" value="Split" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontStyle=1;strokeWidth=2;fillColor=#d0e2c0;" vertex="1" parent="1">
           <mxGeometry x="1280" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="g_KCTb8szpHInoTzHt-u-15" value="Split" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontStyle=1;strokeWidth=2;fillColor=#d0e2c0;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="360" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
