@@ -1531,7 +1531,7 @@
         <mxCell id="5KU0bC-oygGlvszR8l3n-30" value="C3k2-DSKW" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4600" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5KU0bC-oygGlvszR8l3n-32" value="C2PSA" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="5KU0bC-oygGlvszR8l3n-32" value="Conv2d" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4800" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KU0bC-oygGlvszR8l3n-34" value="C3k2-DSKW" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
