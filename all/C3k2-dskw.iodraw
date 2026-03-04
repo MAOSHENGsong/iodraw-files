@@ -496,8 +496,14 @@
         <mxCell id="KT1zBL44v3f4ROC4N8oA-28" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2640" y="560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KT1zBL44v3f4ROC4N8oA-29" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="KT1zBL44v3f4ROC4N8oA-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KT1zBL44v3f4ROC4N8oA-29" target="KT1zBL44v3f4ROC4N8oA-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KT1zBL44v3f4ROC4N8oA-29" value="Split" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2640" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KT1zBL44v3f4ROC4N8oA-31" value="Bottleneck" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="720" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
