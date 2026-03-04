@@ -1617,6 +1617,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="5KU0bC-oygGlvszR8l3n-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5KU0bC-oygGlvszR8l3n-136">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4679.5" y="1230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5KU0bC-oygGlvszR8l3n-136" value="ConvTranspose2d" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4600" y="1310" width="160" height="40" as="geometry" />
         </mxCell>
