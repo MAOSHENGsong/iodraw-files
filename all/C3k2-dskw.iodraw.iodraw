@@ -392,7 +392,7 @@
         <mxCell id="KT1zBL44v3f4ROC4N8oA-13" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontColor=default;fillColor=#d0e2c0;" vertex="1" parent="1">
           <mxGeometry x="2130" y="555" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KT1zBL44v3f4ROC4N8oA-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Bottleneck&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="KT1zBL44v3f4ROC4N8oA-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Bottleneck&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#a1d8e8;" vertex="1" parent="1">
           <mxGeometry x="2130" y="635" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KT1zBL44v3f4ROC4N8oA-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;" edge="1" parent="1" source="KT1zBL44v3f4ROC4N8oA-16" target="KT1zBL44v3f4ROC4N8oA-20">
@@ -548,7 +548,7 @@
             <mxPoint x="2589.9310344827586" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KT1zBL44v3f4ROC4N8oA-37" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="KT1zBL44v3f4ROC4N8oA-37" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontColor=default;fillColor=#d0e2c0;" vertex="1" parent="1">
           <mxGeometry x="2530" y="910" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KT1zBL44v3f4ROC4N8oA-51" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
@@ -568,7 +568,7 @@
             <mxPoint x="2929.5" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KT1zBL44v3f4ROC4N8oA-56" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="KT1zBL44v3f4ROC4N8oA-56" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontColor=default;fillColor=#d0e2c0;" vertex="1" parent="1">
           <mxGeometry x="2870" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KT1zBL44v3f4ROC4N8oA-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="KT1zBL44v3f4ROC4N8oA-60" target="KT1zBL44v3f4ROC4N8oA-62">
@@ -622,7 +622,7 @@
             <mxPoint x="2929.5" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KT1zBL44v3f4ROC4N8oA-68" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="KT1zBL44v3f4ROC4N8oA-68" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontColor=default;fillColor=#d0e2c0;" vertex="1" parent="1">
           <mxGeometry x="2870" y="910" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KT1zBL44v3f4ROC4N8oA-69" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
