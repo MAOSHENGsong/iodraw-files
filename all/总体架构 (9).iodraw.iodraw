@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="GASLVxHRmGElVbW0614b">
-    <mxGraphModel dx="2038" dy="1889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1519" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1629,7 +1629,7 @@
         <mxCell id="5KU0bC-oygGlvszR8l3n-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5KU0bC-oygGlvszR8l3n-142" target="5KU0bC-oygGlvszR8l3n-146">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5KU0bC-oygGlvszR8l3n-142" value="ConvTranspose2d" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="5KU0bC-oygGlvszR8l3n-142" value="AveragePool" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4802" y="1320" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KU0bC-oygGlvszR8l3n-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5KU0bC-oygGlvszR8l3n-144" target="5KU0bC-oygGlvszR8l3n-148">
