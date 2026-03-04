@@ -1498,9 +1498,9 @@
         <mxCell id="5KU0bC-oygGlvszR8l3n-20" value="C2PSA" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4400" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5KU0bC-oygGlvszR8l3n-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="5KU0bC-oygGlvszR8l3n-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="5KU0bC-oygGlvszR8l3n-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4420" y="1550" as="sourcePoint" />
+            <mxPoint x="4460" y="1520" as="sourcePoint" />
             <mxPoint x="4470" y="1500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
