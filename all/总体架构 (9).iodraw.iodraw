@@ -1548,11 +1548,17 @@
         <mxCell id="5KU0bC-oygGlvszR8l3n-34" value="Conv2d" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4800" y="960" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5KU0bC-oygGlvszR8l3n-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5KU0bC-oygGlvszR8l3n-36" target="5KU0bC-oygGlvszR8l3n-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5KU0bC-oygGlvszR8l3n-36" value="Conv2d" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4800" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KU0bC-oygGlvszR8l3n-39" value="FFS" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="5080" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5KU0bC-oygGlvszR8l3n-43" value="Conv2d" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="5080" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
