@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pyCCywT1LmFsjXcYdkPd-117" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontFamily=Helvetica;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry y="160" width="1080" height="890" as="geometry" />
-        </mxCell>
         <mxCell id="pyCCywT1LmFsjXcYdkPd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=16;" parent="1" source="pyCCywT1LmFsjXcYdkPd-1" target="pyCCywT1LmFsjXcYdkPd-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -358,9 +355,9 @@
             <mxPoint x="399.61" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pyCCywT1LmFsjXcYdkPd-116" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;exitX=0.666;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=1;fontFamily=Helvetica;fontSize=16;" parent="1" source="pyCCywT1LmFsjXcYdkPd-117" edge="1">
+        <mxCell id="pyCCywT1LmFsjXcYdkPd-116" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;exitX=0.666;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=1;fontFamily=Helvetica;fontSize=16;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="1040" as="sourcePoint" />
+            <mxPoint x="719.2799999999997" y="1050.8899999999999" as="sourcePoint" />
             <mxPoint x="720" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
