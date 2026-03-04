@@ -273,7 +273,7 @@
         <mxCell id="g_KCTb8szpHInoTzHt-u-35" value="Reshape" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontStyle=1;strokeWidth=2;fillColor=#d0e2c0;" vertex="1" parent="1">
           <mxGeometry x="1680" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g_KCTb8szpHInoTzHt-u-37" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontStyle=1;strokeWidth=2;fillColor=#d0e2c0;" vertex="1" parent="1">
+        <mxCell id="g_KCTb8szpHInoTzHt-u-37" value="3×3 Conv" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontStyle=1;strokeWidth=2;fillColor=#d0e2c0;" vertex="1" parent="1">
           <mxGeometry x="1680" y="400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
