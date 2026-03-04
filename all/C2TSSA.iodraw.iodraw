@@ -315,15 +315,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g_KCTb8szpHInoTzHt-u-54" value="1×1 Conv" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontStyle=1;strokeWidth=2;fillColor=#d0e2c0;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="270" width="120" height="40" as="geometry" />
+          <mxGeometry x="1880" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g_KCTb8szpHInoTzHt-u-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="g_KCTb8szpHInoTzHt-u-55">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1950.4285714285716" y="500" as="targetPoint" />
+            <mxPoint x="1940" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g_KCTb8szpHInoTzHt-u-55" value="1×1 Conv" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontStyle=1;strokeWidth=2;fillColor=#d0e2c0;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="390" width="120" height="40" as="geometry" />
+          <mxGeometry x="1880" y="400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
