@@ -503,7 +503,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2880" y="660" />
-              <mxPoint x="2880" y="940" />
+              <mxPoint x="2880" y="980" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -517,9 +517,6 @@
               <mxPoint x="2840" y="980" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="KT1zBL44v3f4ROC4N8oA-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KT1zBL44v3f4ROC4N8oA-31" target="KT1zBL44v3f4ROC4N8oA-43">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KT1zBL44v3f4ROC4N8oA-31" value="Bottleneck" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2640" y="720" width="120" height="40" as="geometry" />
@@ -538,9 +535,6 @@
         </mxCell>
         <mxCell id="KT1zBL44v3f4ROC4N8oA-37" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2640" y="1040" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KT1zBL44v3f4ROC4N8oA-43" value="Bottleneck" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2640" y="800" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
