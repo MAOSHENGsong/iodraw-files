@@ -288,7 +288,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1740" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1740" y="520" />
+              <mxPoint x="1760" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -309,7 +309,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g_KCTb8szpHInoTzHt-u-44" value="1×1 Conv" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontStyle=1;strokeWidth=2;fillColor=#d0e2c0;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="600" width="120" height="40" as="geometry" />
+          <mxGeometry x="1570" y="585" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
