@@ -205,8 +205,8 @@
         <mxCell id="g_KCTb8szpHInoTzHt-u-1" value="1×1 Conv" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontStyle=1;strokeWidth=2;fillColor=#d0e2c0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g_KCTb8szpHInoTzHt-u-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="600" width="120" height="30" as="geometry" />
+        <mxCell id="g_KCTb8szpHInoTzHt-u-7" value="PSABlock" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="600" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
