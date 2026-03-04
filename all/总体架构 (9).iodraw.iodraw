@@ -1531,6 +1531,14 @@
         <mxCell id="5KU0bC-oygGlvszR8l3n-30" value="SF" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4600" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5KU0bC-oygGlvszR8l3n-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5KU0bC-oygGlvszR8l3n-32" target="5KU0bC-oygGlvszR8l3n-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5KU0bC-oygGlvszR8l3n-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5KU0bC-oygGlvszR8l3n-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5390" y="659.8888888888887" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5KU0bC-oygGlvszR8l3n-32" value="Conv2d" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="5080" y="640" width="120" height="40" as="geometry" />
         </mxCell>
