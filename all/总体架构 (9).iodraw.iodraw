@@ -1551,7 +1551,7 @@
         <mxCell id="5KU0bC-oygGlvszR8l3n-36" value="Conv2d" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4800" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5KU0bC-oygGlvszR8l3n-39" value="Conv2d" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="5KU0bC-oygGlvszR8l3n-39" value="FFS" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="5080" y="960" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
