@@ -1495,8 +1495,8 @@
         <mxCell id="5KU0bC-oygGlvszR8l3n-18" value="SPPF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4400" y="720" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5KU0bC-oygGlvszR8l3n-20" value="SPPF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4400" y="600" width="120" height="40" as="geometry" />
+        <mxCell id="5KU0bC-oygGlvszR8l3n-20" value="C2PSA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4400" y="640" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
