@@ -1601,7 +1601,7 @@
         <mxCell id="5KU0bC-oygGlvszR8l3n-56" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="5080" y="930" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5KU0bC-oygGlvszR8l3n-57" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;ConvTranspose2d&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1;dashed=1;perimeterSpacing=4;" vertex="1" parent="1">
+        <mxCell id="5KU0bC-oygGlvszR8l3n-57" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;ConvTranspose2d&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;dashed=1;perimeterSpacing=4;" vertex="1" parent="1">
           <mxGeometry x="5088" y="970" width="152" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KU0bC-oygGlvszR8l3n-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;SFF&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
@@ -1634,7 +1634,7 @@
             <mxPoint x="4729.5" y="1250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5KU0bC-oygGlvszR8l3n-136" value="ConvTranspose2d" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="5KU0bC-oygGlvszR8l3n-136" value="ConvTranspose2d" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4650" y="1330" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KU0bC-oygGlvszR8l3n-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="5KU0bC-oygGlvszR8l3n-137" target="5KU0bC-oygGlvszR8l3n-144">
