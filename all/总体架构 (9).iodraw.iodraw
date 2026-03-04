@@ -1618,7 +1618,7 @@
         <mxCell id="5KU0bC-oygGlvszR8l3n-105" value="平均池化" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=24;fontFamily=微软雅黑;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4801" y="1391" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5KU0bC-oygGlvszR8l3n-106" value="1×1卷积" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=24;fontFamily=微软雅黑;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5KU0bC-oygGlvszR8l3n-106" value="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=24;fontFamily=微软雅黑;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4961" y="1271" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KU0bC-oygGlvszR8l3n-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=24;fontFamily=微软雅黑;strokeWidth=2;" edge="1" parent="1" source="5KU0bC-oygGlvszR8l3n-104" target="5KU0bC-oygGlvszR8l3n-106">
