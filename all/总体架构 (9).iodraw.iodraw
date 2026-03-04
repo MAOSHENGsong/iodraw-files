@@ -1477,7 +1477,7 @@
         <mxCell id="5KU0bC-oygGlvszR8l3n-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="5KU0bC-oygGlvszR8l3n-8" target="5KU0bC-oygGlvszR8l3n-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5KU0bC-oygGlvszR8l3n-8" value="C3k2-DSKW" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="5KU0bC-oygGlvszR8l3n-8" value="C3k2-DSKW" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=#fded95;" vertex="1" parent="1">
           <mxGeometry x="4400" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KU0bC-oygGlvszR8l3n-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontStyle=1" edge="1" parent="1" source="5KU0bC-oygGlvszR8l3n-10" target="5KU0bC-oygGlvszR8l3n-12">
@@ -1492,7 +1492,7 @@
         <mxCell id="5KU0bC-oygGlvszR8l3n-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="5KU0bC-oygGlvszR8l3n-12" target="5KU0bC-oygGlvszR8l3n-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5KU0bC-oygGlvszR8l3n-12" value="C3k2-DSKW" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="5KU0bC-oygGlvszR8l3n-12" value="C3k2-DSKW" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=#fded95;" vertex="1" parent="1">
           <mxGeometry x="4400" y="960" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KU0bC-oygGlvszR8l3n-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontStyle=1" edge="1" parent="1" source="5KU0bC-oygGlvszR8l3n-14" target="5KU0bC-oygGlvszR8l3n-16">
