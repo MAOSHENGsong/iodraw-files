@@ -1684,7 +1684,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5KU0bC-oygGlvszR8l3n-123" value="&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-weight: 700;&quot;&gt;ConvTranspose2d&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontFamily=微软雅黑;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5KU0bC-oygGlvszR8l3n-123" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;ConvTranspose2d&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontFamily=微软雅黑;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4600" y="1331" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5KU0bC-oygGlvszR8l3n-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=24;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=微软雅黑;strokeWidth=2;" edge="1" parent="1" source="5KU0bC-oygGlvszR8l3n-123" target="5KU0bC-oygGlvszR8l3n-105">
