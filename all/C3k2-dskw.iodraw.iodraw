@@ -319,7 +319,7 @@
             <mxPoint x="2550.14" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pyCCywT1LmFsjXcYdkPd-98" value="SiLU" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=16;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="pyCCywT1LmFsjXcYdkPd-98" value="SiLU" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=16;strokeWidth=2;fillColor=#88C6E2;" parent="1" vertex="1">
           <mxGeometry x="2490" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pyCCywT1LmFsjXcYdkPd-103" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 16px;&quot;&gt;Kernel Warehouse&lt;/span&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontStyle=1;fontFamily=Helvetica;fontSize=16;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
