@@ -100,6 +100,9 @@
         <mxCell id="K1DRXzgFEoLDdPqGcA4o-38" value="$$\ast$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="585" y="140" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="K1DRXzgFEoLDdPqGcA4o-39" value="$$\ast$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="705" y="140" width="30" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
