@@ -97,8 +97,8 @@
         <mxCell id="K1DRXzgFEoLDdPqGcA4o-37" value="$$W$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="340" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K1DRXzgFEoLDdPqGcA4o-38" value="$$W_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="120" width="80" height="40" as="geometry" />
+        <mxCell id="K1DRXzgFEoLDdPqGcA4o-38" value="$$&lt;span style=&quot;color: rgb(79, 79, 79); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 14px; font-variant-ligatures: no-common-ligatures; background-color: rgb(247, 247, 247);&quot;&gt;\ast&lt;/span&gt;$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="20" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
