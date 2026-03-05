@@ -58,10 +58,10 @@
         <mxCell id="K1DRXzgFEoLDdPqGcA4o-23" value="$$w_1$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K1DRXzgFEoLDdPqGcA4o-24" value="$$k_1$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K1DRXzgFEoLDdPqGcA4o-24" value="$$w_1$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K1DRXzgFEoLDdPqGcA4o-25" value="$$k_1$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K1DRXzgFEoLDdPqGcA4o-25" value="$$w_1$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="80" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
