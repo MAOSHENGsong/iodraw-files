@@ -26,7 +26,7 @@
         <mxCell id="K1DRXzgFEoLDdPqGcA4o-3" value="Attention" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K1DRXzgFEoLDdPqGcA4o-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K1DRXzgFEoLDdPqGcA4o-4" value="&lt;span style=&quot;color: rgb(197, 200, 198); font-family: &amp;quot;Source Code Pro&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Anonymous Pro&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, Menlo, Monaco, Consolas, Inconsolata, Courier, monospace, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; font-variant-ligatures: no-common-ligatures; text-align: start; white-space: pre; background-color: rgb(29, 31, 33);&quot;&gt;\alpha&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K1DRXzgFEoLDdPqGcA4o-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K1DRXzgFEoLDdPqGcA4o-8" target="K1DRXzgFEoLDdPqGcA4o-9">
@@ -43,9 +43,6 @@
         </mxCell>
         <mxCell id="K1DRXzgFEoLDdPqGcA4o-13" value="Activation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="300" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="K1DRXzgFEoLDdPqGcA4o-16" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:115%;&#xa;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&#xa;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&#xa; &#xa; &#xa;  &#xa;  &#xa;  &#xa;  &#xa;  &#xa;  &#xa;  &#xa;  &#xa;  &#xa;  &#xa;  &#xa;  &#xa; &#xa; &#xa; &#xa;&#xa; &#xa;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="90" width="30" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
