@@ -26,9 +26,6 @@
         <mxCell id="K1DRXzgFEoLDdPqGcA4o-3" value="Attention" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K1DRXzgFEoLDdPqGcA4o-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K1DRXzgFEoLDdPqGcA4o-4" target="K1DRXzgFEoLDdPqGcA4o-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="K1DRXzgFEoLDdPqGcA4o-4" value="$$\alpha_1$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="160" width="120" height="40" as="geometry" />
         </mxCell>
@@ -46,9 +43,6 @@
         </mxCell>
         <mxCell id="K1DRXzgFEoLDdPqGcA4o-13" value="Activation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="300" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="K1DRXzgFEoLDdPqGcA4o-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K1DRXzgFEoLDdPqGcA4o-18" target="K1DRXzgFEoLDdPqGcA4o-20">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K1DRXzgFEoLDdPqGcA4o-18" value="$$\alpha_2$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="160" width="120" height="40" as="geometry" />
