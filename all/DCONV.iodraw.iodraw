@@ -33,7 +33,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K1DRXzgFEoLDdPqGcA4o-8" value="conv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="300" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K1DRXzgFEoLDdPqGcA4o-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K1DRXzgFEoLDdPqGcA4o-9" target="K1DRXzgFEoLDdPqGcA4o-13">
           <mxGeometry relative="1" as="geometry" />
@@ -41,8 +41,13 @@
         <mxCell id="K1DRXzgFEoLDdPqGcA4o-9" value="BN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="300" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="K1DRXzgFEoLDdPqGcA4o-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1DRXzgFEoLDdPqGcA4o-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="320.2413793103449" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="K1DRXzgFEoLDdPqGcA4o-13" value="Activation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="800" y="300" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K1DRXzgFEoLDdPqGcA4o-18" value="$$\alpha_2$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="160" width="80" height="40" as="geometry" />
