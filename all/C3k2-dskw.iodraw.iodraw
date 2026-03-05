@@ -570,7 +570,7 @@
             <mxPoint x="3310" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KT1zBL44v3f4ROC4N8oA-62" value="C3k-DSKW" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#FFE3B4;" parent="1" vertex="1">
+        <mxCell id="KT1zBL44v3f4ROC4N8oA-62" value="C3k-DSKW" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;fillColor=#fded95;" parent="1" vertex="1">
           <mxGeometry x="3190" y="660" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KT1zBL44v3f4ROC4N8oA-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="KT1zBL44v3f4ROC4N8oA-64" edge="1">
