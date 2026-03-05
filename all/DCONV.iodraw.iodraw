@@ -53,7 +53,7 @@
         <mxCell id="K1DRXzgFEoLDdPqGcA4o-18" value="$$\alpha_2$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K1DRXzgFEoLDdPqGcA4o-20" value="$$\alpha2$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K1DRXzgFEoLDdPqGcA4o-20" value="$$\alpha_k$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
