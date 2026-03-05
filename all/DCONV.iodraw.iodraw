@@ -94,7 +94,7 @@
         <mxCell id="K1DRXzgFEoLDdPqGcA4o-36" value="$$w_k$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="100" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K1DRXzgFEoLDdPqGcA4o-37" value="$$w_1$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="K1DRXzgFEoLDdPqGcA4o-37" value="$$W$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="340" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
