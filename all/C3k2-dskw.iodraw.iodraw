@@ -468,15 +468,15 @@
           <mxGeometry x="2670" y="580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KT1zBL44v3f4ROC4N8oA-31" value="Bottleneck-DSKW" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontColor=default;fillColor=#fded95;" parent="1" vertex="1">
-          <mxGeometry x="2670" y="660" width="120" height="40" as="geometry" />
+          <mxGeometry x="2670" y="660" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KT1zBL44v3f4ROC4N8oA-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="KT1zBL44v3f4ROC4N8oA-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2730" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KT1zBL44v3f4ROC4N8oA-33" value="Bottleneck" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontColor=default;fillColor=#fded95;" parent="1" vertex="1">
-          <mxGeometry x="2670" y="750" width="120" height="40" as="geometry" />
+        <mxCell id="KT1zBL44v3f4ROC4N8oA-33" value="Bottleneck-DSKW" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=18;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontColor=default;fillColor=#fded95;" parent="1" vertex="1">
+          <mxGeometry x="2670" y="750" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KT1zBL44v3f4ROC4N8oA-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" target="KT1zBL44v3f4ROC4N8oA-37" edge="1">
           <mxGeometry relative="1" as="geometry">
