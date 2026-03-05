@@ -311,7 +311,7 @@
         <mxCell id="pyCCywT1LmFsjXcYdkPd-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=16;strokeWidth=2;" parent="1" source="pyCCywT1LmFsjXcYdkPd-96" target="pyCCywT1LmFsjXcYdkPd-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pyCCywT1LmFsjXcYdkPd-96" value="BatchNorm2d" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=16;strokeWidth=2;fillColor=#7b95c6;opacity=60;" parent="1" vertex="1">
+        <mxCell id="pyCCywT1LmFsjXcYdkPd-96" value="BatchNorm2d" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=16;strokeWidth=2;fillColor=#C5E4E7;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="2490" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pyCCywT1LmFsjXcYdkPd-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontFamily=Helvetica;fontSize=16;strokeWidth=2;" parent="1" source="pyCCywT1LmFsjXcYdkPd-98" edge="1">
