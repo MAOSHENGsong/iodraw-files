@@ -1718,7 +1718,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MmT227nFLe7VHtAjJYTV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmT227nFLe7VHtAjJYTV-7" target="5KU0bC-oygGlvszR8l3n-158">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5155" y="1755" />
+              <mxPoint x="5155" y="1670" />
+              <mxPoint x="5570" y="1670" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="MmT227nFLe7VHtAjJYTV-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4640" y="1725" width="120" height="60" as="geometry" />
