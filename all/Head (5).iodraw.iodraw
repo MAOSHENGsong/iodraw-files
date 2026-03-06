@@ -60,26 +60,15 @@
         <mxCell id="30QdhfLUVzrZ61uabqN--11" value="1×1 Conv" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="560" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O0W_erASAOtgN4fR_hKp-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=16;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="470" as="sourcePoint" />
-            <mxPoint x="800" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="O0W_erASAOtgN4fR_hKp-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="O0W_erASAOtgN4fR_hKp-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="800" y="550" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O0W_erASAOtgN4fR_hKp-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O0W_erASAOtgN4fR_hKp-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="O0W_erASAOtgN4fR_hKp-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O0W_erASAOtgN4fR_hKp-21" target="O0W_erASAOtgN4fR_hKp-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O0W_erASAOtgN4fR_hKp-19" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;Conv2d&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="O0W_erASAOtgN4fR_hKp-19" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;MLP&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O0W_erASAOtgN4fR_hKp-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O0W_erASAOtgN4fR_hKp-22" target="O0W_erASAOtgN4fR_hKp-21" edge="1">
