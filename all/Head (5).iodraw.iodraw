@@ -211,6 +211,9 @@
         <mxCell id="t5fjE-XnDnYBFalLsiyg-87" value="&lt;h3&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;定位质量评估模块&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;strokeWidth=2;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="1000" y="1010" width="189" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="4s9B39tKK1fQ7EsxTvlP-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
