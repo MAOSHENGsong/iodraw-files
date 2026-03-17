@@ -13,8 +13,11 @@
         <mxCell id="BTEdIb6sFXDk4TolB_9h-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="400" width="10" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BTEdIb6sFXDk4TolB_9h-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="BTEdIb6sFXDk4TolB_9h-4" target="BTEdIb6sFXDk4TolB_9h-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BTEdIb6sFXDk4TolB_9h-4" value="主轴" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="90" y="260" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BTEdIb6sFXDk4TolB_9h-5" value="铣刀" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="415" width="60" height="30" as="geometry" />
