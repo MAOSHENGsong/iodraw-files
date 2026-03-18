@@ -31,6 +31,9 @@
         <mxCell id="H9aWe323HjCKbnuJacJR-5" value="浅层机器学习" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="520" y="480" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="H9aWe323HjCKbnuJacJR-22" value="基于人工设计特征的&lt;div&gt;表面缺陷检测算法&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="290" y="330" width="230" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
