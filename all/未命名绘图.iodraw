@@ -13,8 +13,11 @@
         <mxCell id="H9aWe323HjCKbnuJacJR-3" value="频谱方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="490" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H9aWe323HjCKbnuJacJR-4" value="频谱方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H9aWe323HjCKbnuJacJR-4" value="模型法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="490" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H9aWe323HjCKbnuJacJR-5" value="频谱方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="490" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
