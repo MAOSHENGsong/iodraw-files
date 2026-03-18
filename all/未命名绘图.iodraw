@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="H9aWe323HjCKbnuJacJR-1" value="基于人工设计特征的表面缺陷检测算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="380" width="230" height="60" as="geometry" />
+          <mxGeometry x="299" y="370" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H9aWe323HjCKbnuJacJR-2" value="统计方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="490" width="150" height="60" as="geometry" />
