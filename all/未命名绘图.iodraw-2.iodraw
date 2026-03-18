@@ -38,10 +38,10 @@
           <mxGeometry x="-20" y="480" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H9aWe323HjCKbnuJacJR-3" value="频谱方法" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FAE5C7;fontColor=#143642;strokeColor=#0F8B8D;fontSize=18;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="480" width="150" height="60" as="geometry" />
+          <mxGeometry x="207" y="480" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H9aWe323HjCKbnuJacJR-4" value="模型法" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FAE5C7;fontColor=#143642;strokeColor=#0F8B8D;fontSize=18;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="480" width="150" height="60" as="geometry" />
+          <mxGeometry x="433" y="480" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H9aWe323HjCKbnuJacJR-5" value="浅层机器学习" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FAE5C7;fontColor=#143642;strokeColor=#0F8B8D;fontSize=18;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="660" y="480" width="150" height="60" as="geometry" />
