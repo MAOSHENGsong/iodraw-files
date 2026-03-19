@@ -65,13 +65,18 @@
           <mxGeometry x="960" y="800" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-71" target="IS9dBnvRFShUDX4ZiOWs-69">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="645" />
+              <mxPoint x="920" y="825" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-71" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ADL&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="490" y="620" width="164" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-73" value="喷胶,分切" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="850" y="875" width="90" height="30" as="geometry" />
+          <mxGeometry x="770" y="605" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-76" target="IS9dBnvRFShUDX4ZiOWs-78">
           <mxGeometry relative="1" as="geometry" />
