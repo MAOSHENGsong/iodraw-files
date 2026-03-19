@@ -173,13 +173,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-112" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;底膜&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="380" y="880" width="164" height="50" as="geometry" />
+          <mxGeometry x="340" y="800" width="164" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-114" target="IS9dBnvRFShUDX4ZiOWs-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-114" value="底膜复合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="734" y="890" width="140" height="50" as="geometry" />
+          <mxGeometry x="726" y="785" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-118" value="喷胶" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="654" y="1095" width="60" height="30" as="geometry" />
