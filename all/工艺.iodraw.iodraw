@@ -223,8 +223,14 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-73" value="喷胶,分切" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="790" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-76" target="IS9dBnvRFShUDX4ZiOWs-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-76" value="芯体分切" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="960" y="890" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-78" value="上下层材料复合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="960" y="980" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
