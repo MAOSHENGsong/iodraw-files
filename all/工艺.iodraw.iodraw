@@ -283,8 +283,8 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-171" value="底膜定位" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="690" y="806" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IS9dBnvRFShUDX4ZiOWs-179" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="890" width="120" height="60" as="geometry" />
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-180" value="分切" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="690" y="717" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
