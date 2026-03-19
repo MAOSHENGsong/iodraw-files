@@ -7,8 +7,11 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-1" value="木浆施加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IS9dBnvRFShUDX4ZiOWs-2" value="木浆施加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-2" value="高分子施加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
