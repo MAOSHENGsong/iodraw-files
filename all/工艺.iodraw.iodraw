@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-50" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;木浆&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="797" y="290" width="113" height="50" as="geometry" />
+          <mxGeometry x="751.5" y="270" width="113" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-51" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;高分子&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1140" y="270" width="113" height="50" as="geometry" />
@@ -263,7 +263,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-151" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;腰围外侧无纺布&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="1469" width="164" height="50" as="geometry" />
+          <mxGeometry x="1430" y="1480" width="164" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-152" target="IS9dBnvRFShUDX4ZiOWs-153">
           <mxGeometry relative="1" as="geometry" />
@@ -293,7 +293,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-161" value="腰围两侧牵引" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="1169" width="140" height="51" as="geometry" />
+          <mxGeometry x="1200" y="1174.5" width="140" height="51" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-164" value="棉芯材料混合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="960" y="270" width="140" height="50" as="geometry" />
