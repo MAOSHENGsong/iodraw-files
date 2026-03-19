@@ -262,6 +262,9 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-87" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;平面橡筋&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1350" y="750" width="164" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-89" target="IS9dBnvRFShUDX4ZiOWs-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-89" value="护围橡筋复合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1150" y="535" width="140" height="50" as="geometry" />
         </mxCell>
@@ -271,8 +274,8 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-93" value="剖切，喷胶" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1230" y="420" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IS9dBnvRFShUDX4ZiOWs-94" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-95" value="复合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="665" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
