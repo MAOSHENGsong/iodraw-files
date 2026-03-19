@@ -316,7 +316,7 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-112" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;底膜&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="1172.5" width="164" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IS9dBnvRFShUDX4ZiOWs-114" value="芯体与腰围复合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-114" value="底膜复合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="693" y="1122.5" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
