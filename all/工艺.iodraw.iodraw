@@ -175,7 +175,7 @@
           <mxGeometry x="480" y="875" width="164" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-112" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;底膜&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="486" y="710" width="164" height="50" as="geometry" />
+          <mxGeometry x="470" y="780" width="164" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-114" value="底膜复合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="730" y="875" width="140" height="50" as="geometry" />
@@ -303,7 +303,7 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-169" value="粉碎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="878" y="260" width="72" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IS9dBnvRFShUDX4ZiOWs-171" value="底膜复合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-171" value="底膜定位" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="730" y="780" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
