@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="E7Kdsbx9A1dJM2Pg1DVL">
-    <mxGraphModel dx="2828" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1616" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,12 +131,6 @@
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-89" value="护围橡筋复合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1220" y="717" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="IS9dBnvRFShUDX4ZiOWs-92" value="喷胶" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="605" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IS9dBnvRFShUDX4ZiOWs-93" value="剖切，喷胶" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="500" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-95" target="IS9dBnvRFShUDX4ZiOWs-107">
           <mxGeometry relative="1" as="geometry" />
