@@ -208,8 +208,8 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-67" value="芯体包裹" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="960" y="710" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IS9dBnvRFShUDX4ZiOWs-69" value="芯体包裹" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="960" y="840" width="140" height="50" as="geometry" />
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-69" value="ADL复合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="960" y="800" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
