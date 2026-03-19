@@ -49,7 +49,7 @@
         <mxCell id="dKqUyPrNaharc3N4L2dW-23" value="设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="130" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dKqUyPrNaharc3N4L2dW-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dKqUyPrNaharc3N4L2dW-24" value="历史" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
