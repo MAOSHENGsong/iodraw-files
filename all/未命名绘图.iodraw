@@ -41,10 +41,10 @@
           <mxGeometry x="280" y="80" width="320" height="110" as="geometry" />
         </mxCell>
         <mxCell id="dKqUyPrNaharc3N4L2dW-21" value="相机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="80" width="120" height="50" as="geometry" />
+          <mxGeometry x="600" y="80" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dKqUyPrNaharc3N4L2dW-22" value="相机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="90" width="120" height="50" as="geometry" />
+          <mxGeometry x="730" y="80" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
