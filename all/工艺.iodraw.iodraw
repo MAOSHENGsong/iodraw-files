@@ -433,8 +433,14 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-153" value="腰围橡筋复合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1230" y="1390" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-157" target="IS9dBnvRFShUDX4ZiOWs-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-157" value="腰围内外层复合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1233" y="1240" width="140" height="50" as="geometry" />
+          <mxGeometry x="1220" y="1260" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-159" value="分切" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1170" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
