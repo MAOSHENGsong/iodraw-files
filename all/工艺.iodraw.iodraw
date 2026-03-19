@@ -445,7 +445,7 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-159" value="分切" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1230" y="1210" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IS9dBnvRFShUDX4ZiOWs-161" value="分切" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-161" value="腰围两侧牵引" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1230" y="1080" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
