@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="E7Kdsbx9A1dJM2Pg1DVL">
-    <mxGraphModel dx="3089" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3655" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -413,40 +413,43 @@
           <mxGeometry x="770" y="1440" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-150" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;腰围内侧无纺布&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="1220" width="164" height="50" as="geometry" />
+          <mxGeometry x="1430" y="1309" width="164" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-151" target="IS9dBnvRFShUDX4ZiOWs-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-151" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;腰围外侧无纺布&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="1380" width="164" height="50" as="geometry" />
+          <mxGeometry x="1430" y="1469" width="164" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-152" target="IS9dBnvRFShUDX4ZiOWs-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-152" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;腰围橡筋&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="1500" width="164" height="50" as="geometry" />
+          <mxGeometry x="1440" y="1589" width="164" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-153" target="IS9dBnvRFShUDX4ZiOWs-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-153" value="腰围橡筋复合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="1390" width="140" height="50" as="geometry" />
+          <mxGeometry x="1200" y="1479" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-157" target="IS9dBnvRFShUDX4ZiOWs-159">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-157" value="腰围内外层复合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="1300" width="140" height="50" as="geometry" />
+          <mxGeometry x="1200" y="1389" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-159" target="IS9dBnvRFShUDX4ZiOWs-161">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-159" value="分切" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="1210" width="140" height="50" as="geometry" />
+          <mxGeometry x="1200" y="1299" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-161" target="IS9dBnvRFShUDX4ZiOWs-82">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-161" value="腰围两侧牵引" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="1080" width="140" height="50" as="geometry" />
+          <mxGeometry x="1200" y="1169" width="140" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
