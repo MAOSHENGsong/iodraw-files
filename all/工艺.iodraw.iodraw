@@ -427,11 +427,14 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-152" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;腰围橡筋&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1470" y="1500" width="164" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-153" target="IS9dBnvRFShUDX4ZiOWs-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-153" value="腰围橡筋复合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1230" y="1390" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IS9dBnvRFShUDX4ZiOWs-156" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="1290" width="120" height="60" as="geometry" />
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-157" value="腰围橡筋复合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1233" y="1240" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
