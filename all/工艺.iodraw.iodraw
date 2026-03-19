@@ -8,7 +8,7 @@
           <mxGeometry x="714" y="270" width="164" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-51" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;高分子&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="270" width="164" height="50" as="geometry" />
+          <mxGeometry x="1188" y="270" width="164" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-52" target="IS9dBnvRFShUDX4ZiOWs-57">
           <mxGeometry relative="1" as="geometry" />
