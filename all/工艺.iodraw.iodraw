@@ -71,7 +71,7 @@
           <mxGeometry x="718" y="650" width="164" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-73" value="喷胶,分切" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="860" y="795" width="90" height="30" as="geometry" />
+          <mxGeometry x="850" y="875" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-76" target="IS9dBnvRFShUDX4ZiOWs-78">
           <mxGeometry relative="1" as="geometry" />
