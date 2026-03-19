@@ -91,7 +91,7 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-27" value="产品对折" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IS9dBnvRFShUDX4ZiOWs-29" value="产品对折" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-29" value="超声波焊接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
