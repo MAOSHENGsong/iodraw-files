@@ -292,7 +292,10 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-180" value="分切" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="690" y="717" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IS9dBnvRFShUDX4ZiOWs-183" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;腿部橡筋&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-183" target="IS9dBnvRFShUDX4ZiOWs-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-183" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;包装袋&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="460" y="1260" width="164" height="50" as="geometry" />
         </mxCell>
       </root>
