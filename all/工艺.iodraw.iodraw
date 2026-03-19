@@ -298,6 +298,9 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-164" value="棉芯材料混合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="960" y="270" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-166" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="878" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
