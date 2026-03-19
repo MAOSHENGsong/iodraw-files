@@ -397,8 +397,8 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-142" value="成品输出" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="570" y="1260" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IS9dBnvRFShUDX4ZiOWs-144" value="成品输出" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="783" y="1240" width="140" height="50" as="geometry" />
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-144" value="自动包装" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1260" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
