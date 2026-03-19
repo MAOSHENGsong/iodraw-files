@@ -169,6 +169,9 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-55" value="粉碎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="960" y="310" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-56" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
