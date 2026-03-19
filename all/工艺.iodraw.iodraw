@@ -37,8 +37,8 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-9" value="ADL复合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IS9dBnvRFShUDX4ZiOWs-11" value="ADL复合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="725" width="120" height="60" as="geometry" />
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-11" value="芯体分切" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
