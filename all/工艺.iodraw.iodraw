@@ -237,9 +237,6 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-140" value="剔废" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="570" y="1520" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IS9dBnvRFShUDX4ZiOWs-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-142" target="IS9dBnvRFShUDX4ZiOWs-144">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-142" value="成品输出" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="570" y="1440" width="140" height="50" as="geometry" />
         </mxCell>
