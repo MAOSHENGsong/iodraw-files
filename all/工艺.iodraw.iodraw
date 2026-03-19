@@ -97,8 +97,14 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-29" value="超声波焊接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-31" target="IS9dBnvRFShUDX4ZiOWs-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-31" value="成品切" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-33" value="成品切" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
