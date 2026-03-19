@@ -361,7 +361,7 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-130" value="O型切" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="960" y="1430" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IS9dBnvRFShUDX4ZiOWs-132" value="O型切" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-132" value="产品对折" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="960" y="1520" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
