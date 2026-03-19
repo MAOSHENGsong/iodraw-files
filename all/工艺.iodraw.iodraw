@@ -73,8 +73,14 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-21" value="两侧腰围包裹" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-23" target="IS9dBnvRFShUDX4ZiOWs-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-23" value="压辊压合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-25" value="压辊压合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
