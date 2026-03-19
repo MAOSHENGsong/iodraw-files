@@ -38,7 +38,7 @@
           <mxGeometry x="740" y="585" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dKqUyPrNaharc3N4L2dW-16" value="检测数：123223&lt;div&gt;异常数：32423&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="80" width="320" height="110" as="geometry" />
+          <mxGeometry x="280" y="80" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="dKqUyPrNaharc3N4L2dW-21" value="相机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="80" width="130" height="50" as="geometry" />
