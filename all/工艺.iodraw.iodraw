@@ -244,6 +244,9 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-82" value="芯体与腰围复合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="960" y="1160" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-84" target="IS9dBnvRFShUDX4ZiOWs-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-84" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;两侧无纺布&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1340" y="430" width="164" height="50" as="geometry" />
         </mxCell>
@@ -251,7 +254,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-85" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;护围橡筋&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="535" width="164" height="50" as="geometry" />
+          <mxGeometry x="1350" y="535" width="164" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-86" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;中间无纺布&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1310" y="650" width="164" height="50" as="geometry" />
