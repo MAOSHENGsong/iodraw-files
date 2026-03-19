@@ -403,7 +403,7 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-144" value="自动包装" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="770" y="1260" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IS9dBnvRFShUDX4ZiOWs-146" value="自动包装" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-146" value="金属检测" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="770" y="1350" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
