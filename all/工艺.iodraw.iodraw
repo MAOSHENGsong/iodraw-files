@@ -337,8 +337,8 @@
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-120" value="腿部橡筋复合" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="730" y="980" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IS9dBnvRFShUDX4ZiOWs-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IS9dBnvRFShUDX4ZiOWs-118" target="IS9dBnvRFShUDX4ZiOWs-118">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="IS9dBnvRFShUDX4ZiOWs-125" value="喷胶" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="664" y="1105" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
