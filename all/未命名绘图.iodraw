@@ -16,7 +16,7 @@
         <mxCell id="dKqUyPrNaharc3N4L2dW-6" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dKqUyPrNaharc3N4L2dW-7" value="工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dKqUyPrNaharc3N4L2dW-7" value="系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="40" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
