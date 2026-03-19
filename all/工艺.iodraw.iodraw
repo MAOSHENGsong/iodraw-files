@@ -56,7 +56,7 @@
           <mxGeometry x="100" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IS9dBnvRFShUDX4ZiOWs-17" value="压辊压合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
