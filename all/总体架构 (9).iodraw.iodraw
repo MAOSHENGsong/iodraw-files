@@ -1741,13 +1741,13 @@
         <mxCell id="jp3BOdr9kwN1EPVPw_5q-8" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-weight: 700;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ConvTranspose2d&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4630" y="1349" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jp3BOdr9kwN1EPVPw_5q-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;i style=&quot;font-size: 24px;&quot;&gt;High&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jp3BOdr9kwN1EPVPw_5q-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;i style=&quot;font-size: 24px;&quot;&gt;High&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1;fontColor=#FF99CC;" vertex="1" parent="1">
           <mxGeometry x="4660" y="1241" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jp3BOdr9kwN1EPVPw_5q-22" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;i style=&quot;font-size: 24px;&quot;&gt;Low&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="5730" y="1241" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jp3BOdr9kwN1EPVPw_5q-27" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;i style=&quot;font-size: 24px;&quot;&gt;Head&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jp3BOdr9kwN1EPVPw_5q-27" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;i style=&quot;font-size: 24px;&quot;&gt;SFF&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="5850" y="1230" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
