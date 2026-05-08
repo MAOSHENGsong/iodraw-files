@@ -1719,7 +1719,7 @@
             <mxPoint x="5649.64" y="1775" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jp3BOdr9kwN1EPVPw_5q-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jp3BOdr9kwN1EPVPw_5q-8" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 16px; font-weight: 700;&quot;&gt;ConvTranspose2d&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4489" y="1715" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
