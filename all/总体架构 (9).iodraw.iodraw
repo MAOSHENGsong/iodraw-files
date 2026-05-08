@@ -1736,14 +1736,10 @@
         <mxCell id="jp3BOdr9kwN1EPVPw_5q-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="jp3BOdr9kwN1EPVPw_5q-8" target="jp3BOdr9kwN1EPVPw_5q-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4600" y="1890" />
+              <mxPoint x="4560" y="1798" />
+              <mxPoint x="4560" y="1890" />
               <mxPoint x="5720" y="1890" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jp3BOdr9kwN1EPVPw_5q-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="jp3BOdr9kwN1EPVPw_5q-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4600.692307692308" y="1640.0000000000005" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jp3BOdr9kwN1EPVPw_5q-8" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-weight: 700;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;ConvTranspose2d&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
