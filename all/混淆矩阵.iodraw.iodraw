@@ -15,12 +15,12 @@
             <mxRectangle width="120" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hEAwP0edIoBiiea9HqtH-4" value="Positive" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=0;" parent="hEAwP0edIoBiiea9HqtH-2" vertex="1">
+        <mxCell id="hEAwP0edIoBiiea9HqtH-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Positive&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=0;" parent="hEAwP0edIoBiiea9HqtH-2" vertex="1">
           <mxGeometry x="120" width="120" height="66" as="geometry">
             <mxRectangle width="120" height="66" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hEAwP0edIoBiiea9HqtH-5" value="Negative" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=0;" parent="hEAwP0edIoBiiea9HqtH-2" vertex="1">
+        <mxCell id="hEAwP0edIoBiiea9HqtH-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Negative&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeWidth=0;" parent="hEAwP0edIoBiiea9HqtH-2" vertex="1">
           <mxGeometry x="240" width="120" height="66" as="geometry">
             <mxRectangle width="120" height="66" as="alternateBounds" />
           </mxGeometry>
