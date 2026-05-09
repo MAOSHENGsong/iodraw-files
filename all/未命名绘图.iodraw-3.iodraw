@@ -67,8 +67,8 @@
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-23" value="前端可视化与交互模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="1010" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="80" width="60" height="30" as="geometry" />
+        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-24" value="现场调研" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="80" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
