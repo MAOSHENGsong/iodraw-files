@@ -100,7 +100,7 @@
           <mxGeometry x="290" y="1180" width="460" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-17" value="多线程异步并发调度引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="900" width="200" height="60" as="geometry" />
+          <mxGeometry x="250" y="800" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-19" value="推理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="1160" width="120" height="60" as="geometry" />
