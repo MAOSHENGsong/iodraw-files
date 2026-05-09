@@ -115,6 +115,9 @@
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-86" value="推理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="275" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
