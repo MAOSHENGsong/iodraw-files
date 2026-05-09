@@ -138,8 +138,13 @@
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-91" value="图文分离存储架构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="390" width="430" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.37;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-86" target="Ie56nPvJsjTWoqd2D2TQ-87">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.389;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-86" target="Ie56nPvJsjTWoqd2D2TQ-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="280" />
+              <mxPoint x="860" y="573" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
