@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-108" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-108" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="730" y="100" width="670" height="550" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-90" target="Ie56nPvJsjTWoqd2D2TQ-87">
@@ -135,7 +135,7 @@
           <mxGeometry x="930" y="260" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-87" value="前端可视化与交互模块" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="760" y="570" width="270" height="75" as="geometry" />
+          <mxGeometry x="760" y="570" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-88" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MySQL 关系型数据库&lt;/div&gt;&lt;div&gt;(结构化存储缺陷元数据)&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="970" y="440" width="180" height="80" as="geometry" />
