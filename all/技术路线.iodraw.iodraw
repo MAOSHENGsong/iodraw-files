@@ -101,7 +101,7 @@
           <mxGeometry x="1070" y="440" width="186" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-22" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;本地物理硬盘&lt;/div&gt;&lt;div&gt;(归档缺陷关键帧原图)&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="440" width="186" height="90" as="geometry" />
+          <mxGeometry x="1290" y="440" width="186" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-24" value="现场调研" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="60" width="200" height="60" as="geometry" />
@@ -144,7 +144,7 @@
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-63" target="Ie56nPvJsjTWoqd2D2TQ-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-63" target="Ie56nPvJsjTWoqd2D2TQ-22">
+        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;curved=1;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-63" target="Ie56nPvJsjTWoqd2D2TQ-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
