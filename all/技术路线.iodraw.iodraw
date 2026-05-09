@@ -138,8 +138,14 @@
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-61" value="多线程异步并发调度引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="110" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-66" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-63" target="Ie56nPvJsjTWoqd2D2TQ-22">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-63" target="Ie56nPvJsjTWoqd2D2TQ-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1410" y="285" />
+              <mxPoint x="1410" y="363" />
+              <mxPoint x="1393" y="363" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-63" value="推理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="225" width="170" height="60" as="geometry" />
