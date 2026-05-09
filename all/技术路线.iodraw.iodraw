@@ -77,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-11" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-size: 18px; line-height: 19px; white-space: pre;&quot;&gt;聚焦浅层纹理提取，卸载深层算力以解决参数冗余&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=18;fontFamily=微软雅黑;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="235" width="440" height="40" as="geometry" />
+          <mxGeometry x="310" y="235" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;fontFamily=微软雅黑;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-12" target="Ie56nPvJsjTWoqd2D2TQ-13">
           <mxGeometry relative="1" as="geometry" />
