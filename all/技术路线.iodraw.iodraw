@@ -119,7 +119,7 @@
           <mxGeometry x="285" y="100" width="425" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-85" value="多线程异步并发调度" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="760" y="130" width="600" height="67" as="geometry" />
+          <mxGeometry x="760" y="130" width="600" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-86" target="Ie56nPvJsjTWoqd2D2TQ-91">
           <mxGeometry relative="1" as="geometry" />
@@ -132,7 +132,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-86" value="推理模块" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="930" y="260" width="430" height="80" as="geometry" />
+          <mxGeometry x="930" y="260" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-87" value="前端可视化与交互模块" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="760" y="570" width="270" height="60" as="geometry" />
