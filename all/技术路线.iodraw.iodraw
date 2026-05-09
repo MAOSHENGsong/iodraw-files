@@ -125,6 +125,9 @@
             <mxPoint x="109.99999999999977" y="420" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-33" target="Ie56nPvJsjTWoqd2D2TQ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-33" value="提炼产线痛点，&lt;div&gt;拟定需解决关键技术问题&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="340" width="200" height="60" as="geometry" />
         </mxCell>
