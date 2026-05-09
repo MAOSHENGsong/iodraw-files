@@ -116,7 +116,7 @@
           <mxGeometry x="760" y="120" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-86" value="推理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="200" width="280" height="80" as="geometry" />
+          <mxGeometry x="1080" y="230" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-87" value="前端可视化与交互模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="570" width="270" height="75" as="geometry" />
@@ -132,6 +132,12 @@
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.542;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-85" target="Ie56nPvJsjTWoqd2D2TQ-86">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-99" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="290" as="sourcePoint" />
+            <mxPoint x="660" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
