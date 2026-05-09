@@ -120,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-33" value="提炼产线痛点，&lt;div&gt;拟定需解决关键技术问题&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="320" width="200" height="40" as="geometry" />
+          <mxGeometry x="10" y="320" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-40" value="拉拉裤专属数据集构建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="380" width="200" height="60" as="geometry" />
