@@ -116,17 +116,10 @@
           <mxGeometry x="285" y="100" width="425" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-85" value="多线程异步并发调度" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="760" y="130" width="600" height="40" as="geometry" />
+          <mxGeometry x="760" y="140" width="600" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-86" target="Ie56nPvJsjTWoqd2D2TQ-91">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-86" target="Ie56nPvJsjTWoqd2D2TQ-87">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="895" y="300" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-86" value="推理模块" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="930" y="260" width="430" height="40" as="geometry" />
@@ -143,7 +136,7 @@
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-91" value="图文分离存储架构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="930" y="390" width="430" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="Ie56nPvJsjTWoqd2D2TQ-86">
+        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.641;exitY=1.023;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-85" target="Ie56nPvJsjTWoqd2D2TQ-86">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1145" y="200" as="sourcePoint" />
           </mxGeometry>
