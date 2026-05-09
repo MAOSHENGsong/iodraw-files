@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="80" width="470" height="560" as="geometry" />
+          <mxGeometry x="285" y="80" width="470" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-9" target="Ie56nPvJsjTWoqd2D2TQ-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="380" width="200" height="280" as="geometry" />
@@ -50,36 +53,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-10" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;主干网络：参数共享与核仓库重组&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="160" width="370" height="40" as="geometry" />
+          <mxGeometry x="330" y="160" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-11" target="Ie56nPvJsjTWoqd2D2TQ-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="310" as="targetPoint" />
+            <mxPoint x="515" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-11" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;目标：聚焦浅层纹理提取，卸载深层算力以解决参数冗余&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="235" width="370" height="40" as="geometry" />
+          <mxGeometry x="330" y="235" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-12" target="Ie56nPvJsjTWoqd2D2TQ-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-12" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;颈部网络：精准选择与剔除无效背景通道&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="320" width="370" height="40" as="geometry" />
+          <mxGeometry x="330" y="320" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-13" target="Ie56nPvJsjTWoqd2D2TQ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-13" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;目标：实现深浅特征高效提纯，解决多尺度跨度与噪声干扰&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="400" width="370" height="40" as="geometry" />
+          <mxGeometry x="330" y="400" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-14" target="Ie56nPvJsjTWoqd2D2TQ-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-14" value="检测头：校准分类置信度与边界框回归" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="480" width="370" height="40" as="geometry" />
+          <mxGeometry x="330" y="480" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-15" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;目标：提升网络拟合关联性，解决柔性材料随机形变偏差&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="560" width="370" height="40" as="geometry" />
+          <mxGeometry x="330" y="560" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="870" width="460" height="130" as="geometry" />
@@ -114,7 +117,7 @@
           <mxGeometry x="10" y="380" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-47" value="现场调研" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="80" width="470" height="40" as="geometry" />
+          <mxGeometry x="285" y="80" width="470" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
