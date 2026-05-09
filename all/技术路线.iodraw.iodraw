@@ -103,7 +103,7 @@
           <mxGeometry x="270" y="790" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-19" value="推理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="850" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-21" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MySQL 关系型数据库&lt;/div&gt;&lt;div&gt;(结构化存储缺陷元数据)&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="371" y="1360" width="186" height="90" as="geometry" />
