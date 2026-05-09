@@ -113,6 +113,9 @@
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-40" value="拉拉裤专属数据集构建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="380" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-47" value="现场调研" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="90" width="200" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
