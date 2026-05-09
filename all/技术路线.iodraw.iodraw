@@ -100,7 +100,7 @@
           <mxGeometry x="1025" y="235" width="255" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-19" value="推理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="130" width="200" height="60" as="geometry" />
+          <mxGeometry x="1490" y="710" width="245" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-21" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MySQL 关系型数据库&lt;/div&gt;&lt;div&gt;(结构化存储缺陷元数据)&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1059.5" y="265" width="186" height="90" as="geometry" />
@@ -142,6 +142,9 @@
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-58" value="图文分离架构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="60" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
