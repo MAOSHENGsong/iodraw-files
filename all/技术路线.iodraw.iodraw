@@ -113,7 +113,7 @@
           <mxGeometry x="790" y="130" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-86" value="推理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="275" width="120" height="60" as="geometry" />
+          <mxGeometry x="1120" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-87" value="前端可视化与交互模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="525" width="270" height="75" as="geometry" />
