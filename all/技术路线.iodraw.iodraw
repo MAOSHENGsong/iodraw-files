@@ -112,42 +112,17 @@
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-40" value="拉拉裤专属数据集构建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=微软雅黑;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="10" y="350" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-50">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1065" y="100" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="604" y="60" />
-              <mxPoint x="1065" y="60" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-50" value="现场调研" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=微软雅黑;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="285" y="100" width="425" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-85" target="Ie56nPvJsjTWoqd2D2TQ-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-85" target="Ie56nPvJsjTWoqd2D2TQ-87">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1330" y="180" />
-              <mxPoint x="1330" y="560" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-85" value="多线程异步并发调度" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="800" y="160" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-86" target="Ie56nPvJsjTWoqd2D2TQ-91">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-86" target="Ie56nPvJsjTWoqd2D2TQ-87">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1270" y="275" />
-              <mxPoint x="1270" y="560" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-86" value="推理模块" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="800" y="255" width="400" height="40" as="geometry" />
