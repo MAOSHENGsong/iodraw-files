@@ -113,10 +113,10 @@
           <mxGeometry x="285" y="100" width="425" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-85" value="多线程异步并发调度" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="800" y="750" width="400" height="40" as="geometry" />
+          <mxGeometry x="800" y="530" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-86" value="推理模块" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="827" y="630" width="400" height="40" as="geometry" />
+          <mxGeometry x="800" y="440" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-87" value="前端可视化与交互模块" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="800" y="120" width="400" height="40" as="geometry" />
