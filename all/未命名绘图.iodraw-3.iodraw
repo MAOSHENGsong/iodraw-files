@@ -50,7 +50,7 @@
           <mxGeometry x="310" y="650" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="760" width="740" height="360" as="geometry" />
+          <mxGeometry x="10" y="770" width="740" height="360" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-17" value="多线程异步并发调度引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="780" width="200" height="60" as="geometry" />
@@ -61,7 +61,7 @@
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-20" value="前端可视化与交互模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="1020" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-21" value="&lt;div&gt;MySQL 关系型数据库&lt;/div&gt;&lt;div&gt;(结构化存储缺陷元数据)&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-21" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MySQL 关系型数据库&lt;/div&gt;&lt;div&gt;(结构化存储缺陷元数据)&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="384" y="890" width="186" height="100" as="geometry" />
         </mxCell>
       </root>
