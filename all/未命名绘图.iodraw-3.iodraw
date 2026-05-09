@@ -53,13 +53,13 @@
           <mxGeometry x="10" y="760" width="740" height="360" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-17" value="多线程异步并发调度引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="790" width="200" height="60" as="geometry" />
+          <mxGeometry x="450" y="780" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-19" value="推理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-20" value="前端可视化与交互模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="970" width="160" height="60" as="geometry" />
+          <mxGeometry x="60" y="1020" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
