@@ -143,8 +143,8 @@
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-53" value="导出INT8量化/PyTorch模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="285" y="670" width="460" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1140" width="60" height="30" as="geometry" />
+        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-58" value="图文分离架构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1140" width="460" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
