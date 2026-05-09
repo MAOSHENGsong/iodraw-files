@@ -97,7 +97,7 @@
           <mxGeometry x="330" y="560" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1180" width="460" height="130" as="geometry" />
+          <mxGeometry x="290" y="1140" width="460" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-17" value="多线程异步并发调度引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="790" width="370" height="60" as="geometry" />
@@ -142,6 +142,9 @@
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-53" value="导出INT8量化/PyTorch模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="285" y="670" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1140" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
