@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-116" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="760" y="100" width="610" height="550" as="geometry" />
-        </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-90" target="Ie56nPvJsjTWoqd2D2TQ-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -115,8 +112,9 @@
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-40" value="拉拉裤专属数据集构建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=微软雅黑;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="10" y="350" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-50" target="Ie56nPvJsjTWoqd2D2TQ-116">
+        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-50">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1065" y="100" as="targetPoint" />
             <Array as="points">
               <mxPoint x="604" y="60" />
               <mxPoint x="1065" y="60" />
@@ -154,11 +152,8 @@
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-86" value="推理模块" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="800" y="255" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-87" target="Ie56nPvJsjTWoqd2D2TQ-116">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-87" value="前端可视化与交互模块" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="800" y="540" width="400" height="40" as="geometry" />
+          <mxGeometry x="800" y="560" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-88" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MySQL 关系型数据库&lt;/div&gt;&lt;div&gt;(结构化存储缺陷元数据)&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="820" y="400" width="170" height="80" as="geometry" />
