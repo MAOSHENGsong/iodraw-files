@@ -109,7 +109,7 @@
           <mxGeometry x="1061" y="385" width="186" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-23" value="前端可视化与交互模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1059" width="205" height="60" as="geometry" />
+          <mxGeometry x="1025" y="580" width="205" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-24" value="现场调研" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="60" width="200" height="60" as="geometry" />
