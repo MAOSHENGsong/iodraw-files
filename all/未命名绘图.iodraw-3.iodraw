@@ -19,7 +19,7 @@
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-5" value="工业相机在线采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="120" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-6" value="缺陷分析与定义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ie56nPvJsjTWoqd2D2TQ-6" value="缺陷特征定义与分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="200" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-7" value="数据清洗与标注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
