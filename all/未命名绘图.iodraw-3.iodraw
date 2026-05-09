@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5" y="410" width="200" height="330" as="geometry" />
+          <mxGeometry x="10" y="410" width="200" height="330" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-4" target="Ie56nPvJsjTWoqd2D2TQ-33">
           <mxGeometry relative="1" as="geometry" />
@@ -26,22 +26,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-5" value="工业相机在线采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="430" width="160" height="40" as="geometry" />
+          <mxGeometry x="30" y="430" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-6" target="Ie56nPvJsjTWoqd2D2TQ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-6" value="缺陷特征定义与分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="490" width="160" height="40" as="geometry" />
+          <mxGeometry x="30" y="490" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ie56nPvJsjTWoqd2D2TQ-7" target="Ie56nPvJsjTWoqd2D2TQ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-7" value="数据清洗与标注" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="560" width="160" height="40" as="geometry" />
+          <mxGeometry x="30" y="560" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-8" value="数据集划分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="630" width="160" height="40" as="geometry" />
+          <mxGeometry x="30" y="630" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-10" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;主干网络：参数共享与核仓库重组&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="190" width="370" height="60" as="geometry" />
