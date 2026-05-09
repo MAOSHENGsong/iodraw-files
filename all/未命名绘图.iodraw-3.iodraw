@@ -62,7 +62,7 @@
           <mxGeometry x="60" y="1020" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-21" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MySQL 关系型数据库&lt;/div&gt;&lt;div&gt;(结构化存储缺陷元数据)&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="384" y="890" width="186" height="100" as="geometry" />
+          <mxGeometry x="384" y="900" width="186" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
