@@ -152,7 +152,7 @@
           <mxGeometry x="850" y="475" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-87" value="前端可视化与交互模块" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontFamily=微软雅黑;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="850" y="155" width="400" height="40" as="geometry" />
+          <mxGeometry x="850" y="160" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ie56nPvJsjTWoqd2D2TQ-88" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;MySQL数据库&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=18;fontFamily=微软雅黑;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="870" y="308" width="170" height="80" as="geometry" />
