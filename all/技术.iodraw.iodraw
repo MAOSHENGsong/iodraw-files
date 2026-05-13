@@ -65,7 +65,7 @@
           <mxGeometry x="345" y="420" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AeUmBqu-o4HXcT8-68xA-33" value="主要组成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="490" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="410" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AeUmBqu-o4HXcT8-68xA-34" value="评价标准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="490" width="80" height="40" as="geometry" />
