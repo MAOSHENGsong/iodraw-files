@@ -26,16 +26,19 @@
           <mxGeometry x="100" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AeUmBqu-o4HXcT8-68xA-5" value="深度学习算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="230" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AeUmBqu-o4HXcT8-68xA-6" value="检测设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AeUmBqu-o4HXcT8-68xA-11" value="研究内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AeUmBqu-o4HXcT8-68xA-12" value="关键技术问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AeUmBqu-o4HXcT8-68xA-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
