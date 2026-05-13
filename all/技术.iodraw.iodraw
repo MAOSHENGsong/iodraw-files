@@ -16,8 +16,11 @@
         <mxCell id="AeUmBqu-o4HXcT8-68xA-4" value="传统机器视觉算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AeUmBqu-o4HXcT8-68xA-5" value="传统机器视觉算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="150" width="120" height="40" as="geometry" />
+        <mxCell id="AeUmBqu-o4HXcT8-68xA-5" value="深度学习算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AeUmBqu-o4HXcT8-68xA-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
