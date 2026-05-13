@@ -41,8 +41,8 @@
         <mxCell id="AeUmBqu-o4HXcT8-68xA-6" value="检测设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="210" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AeUmBqu-o4HXcT8-68xA-11" value="研究背景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="170" width="80" height="40" as="geometry" />
+        <mxCell id="AeUmBqu-o4HXcT8-68xA-11" value="研究内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="220" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
