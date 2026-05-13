@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AeUmBqu-o4HXcT8-68xA-3" value="国内外研究现状" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="160" width="100" height="40" as="geometry" />
+          <mxGeometry x="245" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AeUmBqu-o4HXcT8-68xA-4" value="传统机器视觉算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="250" width="120" height="40" as="geometry" />
@@ -44,6 +44,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AeUmBqu-o4HXcT8-68xA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AeUmBqu-o4HXcT8-68xA-19" target="AeUmBqu-o4HXcT8-68xA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AeUmBqu-o4HXcT8-68xA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AeUmBqu-o4HXcT8-68xA-19" target="AeUmBqu-o4HXcT8-68xA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AeUmBqu-o4HXcT8-68xA-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AeUmBqu-o4HXcT8-68xA-19" target="AeUmBqu-o4HXcT8-68xA-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AeUmBqu-o4HXcT8-68xA-19" value="第一章 绪论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
