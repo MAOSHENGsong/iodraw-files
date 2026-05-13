@@ -55,6 +55,9 @@
         <mxCell id="AeUmBqu-o4HXcT8-68xA-19" value="第一章 绪论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="80" width="350" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AeUmBqu-o4HXcT8-68xA-26" value="&amp;nbsp;相关技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="350" width="350" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
