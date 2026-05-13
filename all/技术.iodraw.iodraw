@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="uBCmbt5ZYu61mnj9sPRS">
-    <mxGraphModel dx="1131" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1958" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,19 +56,19 @@
           <mxGeometry x="120" y="80" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AeUmBqu-o4HXcT8-68xA-26" value="第二章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="350" width="350" height="40" as="geometry" />
+          <mxGeometry x="-350" y="380" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AeUmBqu-o4HXcT8-68xA-27" value="神经网络基础" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AeUmBqu-o4HXcT8-68xA-28" value="网络轻量化技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="420" width="95" height="40" as="geometry" />
+          <mxGeometry x="100" y="520" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AeUmBqu-o4HXcT8-68xA-33" value="主要组成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="410" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AeUmBqu-o4HXcT8-68xA-34" value="评价标准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="490" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="450" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
